@@ -1,0 +1,29 @@
+.navbar{    
+    position: sticky;
+    background-image: linear-gradient(rgb(155, 228, 239),rgb(155, 228, 239));
+    opacity: 0.9;
+    z-index: 1;
+}
+
+.logo
+{
+    background-color: green;
+    border-radius: 15px;
+    margin-left: 30px;
+    width: 120px;
+    height: 40px;
+}
+
+.color{
+    font-weight: 1000;
+    color: black;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.noncolor{
+    color: #000000;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+

@@ -1,0 +1,90 @@
+.heading {
+    font-size: 60px;
+    line-height: 70px;
+    font-family: "Kanit", sans-serif;
+  }
+  
+  .left {
+    margin-left: 100px;
+    width: 600px;
+    padding-top: 30px;
+    margin-top: 100px;
+  }
+  
+  .right {
+    padding-left: 60px;
+    padding-top: 30px;      
+    margin-top: 100px;
+    width: 750px;
+    height: 400px;
+    display: flex;
+  }
+  
+  .sec_2 {
+    background-image: linear-gradient(
+      rgb(155, 228, 239),
+      rgba(242, 242, 230, 0.354)
+    );
+  
+    opacity: 0.9;
+    background-repeat: no-repeat;
+    padding-left: 90px;
+    display: flex;
+    height: 630px;
+  }
+  
+  .card-img {
+    width: 180px;
+    height: 300px;
+    margin-left: 18px;
+    border-radius: 15px;
+  }
+  
+  .pic1 {
+    margin-top: 90px;
+  }
+  .pic2 {
+    margin-top: 40px;
+  }
+  .pic3 {
+    margin-top: 70px;
+  }
+
+  .scanner{
+    width: 120px;
+  }
+
+  .contact-us{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .green-text {
+    font-size: 25px;
+    margin-left: 65px;
+    margin-top: 2px;
+    color: green;
+  }
+  .red-text {
+    margin-left: 65px;
+    margin-top: 2px;
+    font-size: 25px;
+    color: red;
+  }
+  .blue-text {
+    margin-left: 69px;
+    margin-top: 2px;
+    font-size: 25px;
+    color: blue;
+  }
+  
+  .small-title {
+    font-size: 18px;
+    margin-bottom: 30px;
+    color: #5b5b5b;
+    font-weight: 700;
+    line-height: 40px;
+  }
+  
