@@ -80,11 +80,24 @@ const Home = () => {
               <span style={{ color: "#bf00ff" }}>SCRAPPY</span>
             </p>
           </div>
-          {/* Desc text */}
           <div>
             <p className="small-title">
               Paper - Plastics - Metals - Appliances
               <br></br>
+              <ul>
+                <li>
+                  BEST PRICE GUARANTEED
+                </li>
+                <li>
+                  ON DEMAND FREE PICKUP
+                </li>
+                <li>
+                  DOORSTEP SERVICE
+                </li>
+                <li>
+                  ACCURATE DIGITAL WEIGHING
+                </li>
+              </ul>
               <button
                 className="btn btn-primary custom-btn"
                 style={{ backgroundColor: "green" }}

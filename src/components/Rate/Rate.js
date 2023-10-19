@@ -5,6 +5,12 @@ import "./Rate_responsive.css";
 const Rate = () => {
   return (
     <>
+      <div class="alert alert-primary container mt-4" role="alert" style={{margin: 'auto'}}>
+        <b>Notes</b>
+        <ul>
+          <li>All Kind of Waste are Accepted</li>
+        </ul>
+      </div>
       {/* Scrap Rate */}
       <div className="container">
         <div className="container details_houserule text-center" id="rule">
@@ -185,7 +191,7 @@ const Rate = () => {
               <img
                 alt="Not Found"
                 className="img"
-                src="https://ikp.edgekit.net/h1rxzpffx/swapeco/img/scrap-item/box.png"
+                src="	https://ikp.edgekit.net/h1rxzpffx/swapeco/img/scrap-item/fridge.png"
               ></img>
               <div className="col details_small_div d-flex my-3">
                 <span className="card_title">
@@ -203,7 +209,7 @@ const Rate = () => {
               <img
                 alt="Not Found"
                 className="img"
-                src="https://pngimg.com/uploads/bottle/bottle_PNG2090.png"
+                src="https://ikp.edgekit.net/h1rxzpffx/swapeco/img/scrap-item/ventilation.png"
               ></img>
               <div className="col details_small_div d-flex my-3">
                 <span className="card_title">

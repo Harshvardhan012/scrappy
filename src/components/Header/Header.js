@@ -1,6 +1,7 @@
 import React, { useRef } from "react";
 import "./Header.css";
-import logo from "../img/logo.png";
+// import logo from "../img/logo.jpeg";
+import logo from "../img/logo1.png";
 
 import scanner from "../img/scanner.jpeg";
 import { NavLink,Link } from "react-router-dom";
@@ -34,6 +35,7 @@ const Header = () => {
             </div>
             <div className="modal-body">
               <div className="d-flex contact-us">
+
                 <img
                   src={scanner}
                   className="scanner"

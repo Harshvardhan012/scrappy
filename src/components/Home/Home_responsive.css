@@ -78,6 +78,14 @@
 }
 
 @media screen and (width<890px) and (width >=610px) {
+
+    .small-title {
+        font-size: 12px;
+        margin-bottom: 30px;
+        color: #5b5b5b;
+        font-weight: 700;
+        line-height: 20px;
+      }
   .heading {
     font-size: 30px;
     line-height: 40px;
@@ -157,6 +165,8 @@
 }
 
 @media screen and (width<610px) and (width >=434px) {
+
+   
   .heading {
     font-size: 24px;
     line-height: 40px;
@@ -173,7 +183,7 @@
   .right {
     /* padding-left: 55px; */
     padding-top: 30px;
-    margin-top: 60px;
+    margin-top: 130px;
     width: 750px;
     height: 400px;
     display: flex;
@@ -235,7 +245,7 @@
   }
 
   .small-title {
-    font-size: 14px;
+    font-size: 12px;
     margin-bottom: 30px;
     color: #5b5b5b;
     font-weight: 700;
@@ -327,7 +337,7 @@
   }
 
   .small-title {
-    font-size: 14px;
+    font-size: 8px;
     margin-bottom: 30px;
     color: #5b5b5b;
     font-weight: 700;
@@ -337,7 +347,7 @@
 
 @media screen and (width<397px) and (width >=0px) {
   .heading {
-    font-size: 18px;
+    font-size: 10px;
     line-height: 24px;
     font-family: "Kanit", sans-serif;
   }
@@ -352,7 +362,7 @@
   .right {
     padding-left: 25px;
     padding-top: 20px;
-    margin-top: 20px;
+    margin-top: 90px;
     width: 750px;
     height: fit-content;
     display: flex;
@@ -420,7 +430,7 @@
   }
 
   .small-title {
-    font-size: 8px;
+    font-size: 7px;
     margin-bottom: 30px;
     color: #5b5b5b;
     font-weight: 700;
